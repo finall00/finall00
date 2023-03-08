@@ -1,6 +1,6 @@
 ### Hello World 
 
-## My names is finall00 I'm studying programming
+## My names is finall00 
 
 <div align="center">
   <a href="https://github.com/finall00">
