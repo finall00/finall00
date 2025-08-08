@@ -25,9 +25,9 @@ Always chasing performance, !clean architecture... and coffee!
 <h3 align="center">🛠️ Languages & Tools</h3><br>
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/c/00599C" height="40" alt="c logo" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="40" alt="cplusplus logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo" />
   <img width="12" />
@@ -46,6 +46,8 @@ Always chasing performance, !clean architecture... and coffee!
   <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="cmake logo"  />
 </div>
 
 ---
