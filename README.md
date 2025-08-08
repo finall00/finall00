@@ -1,23 +1,68 @@
-### Hello World 
-
-## Finall00
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Type" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="postgres" height="40" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-</div>  
-  
-  ##
- 
-<div> 
-  <a href="discord" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>   
-  <a href = "colocar o email"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="Colocar o linkedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>     
+<div align="center">
+  <img height="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fca%2F3f%2Fc2%2Fca3fc2349e87960eebe37d2cb8164acf.gif&f=1&nofb=1&ipt=02e0e3ad0ca282517181e25ea9554bd086218413710dda249bfb8601f1c9565b"  />
 </div>
 
-##
-  
+---
+
+<h1 align="center">I'm finall00 — I like coffee and low-level code ☕</h1>
+
+###
+
+<h3 align="left">🧠 About Me</h3>
+
+<p align="left">
+I'm a developer passionate about low-level systems, automation, and security. I love breaking things apart, understanding how they work, and putting them back together... sometimes.<br><br>
+- 🔧 I like C/C++, Java (Spring), ASM, and Go<br>
+- 🐧 Terminal life: GNU/Linux (Debian), Bash, Neovim<br>
+- 📦 Docker and NGINX are my orchestration tools<br>
+- 🚀 Currently exploring x86_64 Assembly, Go, and multithreading<br>
+- 🧪 Into lab setups, offensive security, and hardware hacking<br><br>
+Always chasing performance, !clean architecture... and coffee!
+</p>
+
+---
+
+<h3 align="center">🛠️ Languages & Tools</h3><br>
+
+<div align="center">
+  <img src="https://cdn.simpleicons.org/c/00599C" height="40" alt="c logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="40" alt="cplusplus logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nginx/009639" height="40" alt="nginx logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo" />
+</div>
+
+---
+
+<h3 align="center">📈 GitHub Stats</h3>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=finall00&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=finall00&layout=compact&langs_count=7&theme=dracula&count_private=true"/>
+</div>
+
+
+
+<!--
+---
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=finall00" />
+</div>
+-->
